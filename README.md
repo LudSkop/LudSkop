@@ -1,9 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=header&text=Hi,%20I'm%20Liudmyla%20👋&fontSize=36&fontColor=ffffff" width="100%" />
 
-<p align="center">
-  I enjoy building responsive, user-friendly web apps ✨<br/>
-  Looking for my first commercial role to grow as a Frontend Developer 🚀
-</p>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=150&text=I%20enjoy%20building%20responsive,%20user-friendly%20web%20apps%20✨&fontSize=22&fontColor=ffffff&fontAlignY=40&desc=Looking%20for%20my%20first%20commercial%20role%20as%20a%20Frontend%20Developer%20🚀&descSize=18&descAlignY=65" width="100%" />
+
 
 ## 🛠️ Skills
 
