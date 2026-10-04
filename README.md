@@ -1,14 +1,7 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=header&text=Hi,%20I'm%20Liudmyla%20👋&fontSize=36&fontColor=ffffff" width="100%" />
 
 <p align="center">
-
-
-<h3 align="center">💻 Junior Frontend Developer 
-
-<p align="center">
-  I enjoy building responsive, user-friendly web apps ✨<br/>
-  Looking for my first commercial role to grow as a Frontend Developer 🚀
-</p>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=26A5E4&center=true&vCenter=true&width=420&lines=Junior+Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Based+in+Odesa,+Ukraine+🇺🇦" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -27,7 +20,7 @@
 | Project | Description | Stack | Links |
 |---|---|---|---|
 | 🚐 **TravelTrucks** | Camper rental web app | Next.js · TypeScript · TanStack Query · Zustand | [GitHub](https://github.com/LudSkop/TravelTrucks) · [Demo](https://travel-trucks-three-eta.vercel.app/) |
-| 🎬 **Film Search** | Movie search with TMDB API | JavaScript · | [GitHub](https://ludskop.github.io/film-search-app.)  |
+| 🎬 **Film Search** | Movie search with TMDB API | React · JavaScript · Axios | [GitHub](https://ludskop.github.io/film-search-app) |
 | 🐾 **PawFriends** | App for finding pets | React · JavaScript · REST API | [GitHub](https://github.com/LudSkop/PawFriends) |
 
 ## 🎓 Education
@@ -46,3 +39,7 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" />
+
+
+
+
