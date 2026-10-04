@@ -1,82 +1,41 @@
-# Hi, I'm Liudmyla 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=header&text=Hi,%20I'm%20Liudmyla%20👋&fontSize=36&fontColor=ffffff" width="100%" />
 
-### Junior Frontend Developer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=26A5E4&center=true&vCenter=true&width=420&lines=Junior+Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Based+in+Odesa,+Ukraine+🇺🇦" alt="Typing SVG" />
+</p>
 
-I'm a Junior Frontend Developer from Odesa, Ukraine.
+<p align="center">
+  I enjoy building responsive, user-friendly web apps ✨<br/>
+  Looking for my first commercial role to grow as a Frontend Developer 🚀
+</p>
 
-I enjoy creating responsive and user-friendly web applications and I'm currently looking for an opportunity to grow as a Frontend Developer and gain commercial experience.
+## 🛠️ Skills
 
-### 🛠️ Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,git,github,postman,figma" />
+</p>
 
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
-- React.js
-- Next.js
-- REST API
-- Git & GitHub
-- Postman
-- Figma
+## 📌 Projects
 
-### 📌 My Projects
+| Project | Description | Stack | Links |
+|---|---|---|---|
+| 🚐 **TravelTrucks** | Camper rental web app | Next.js · TypeScript · TanStack Query · Zustand | [GitHub](https://github.com/LudSkop/TravelTrucks) · [Demo](https://travel-trucks-three-eta.vercel.app/) |
+| 🎬 **Film Search** | Movie search with TMDB API | React · JavaScript · Axios | [GitHub](https://github.com/LudSkop) |
+| 🐾 **PawFriends** | App for finding pets | React · JavaScript · REST API | [GitHub](https://github.com/LudSkop/PawFriends) |
 
-#### 🚐 TravelTrucks
-A camper rental web application built with Next.js and TypeScript.
+## 🎓 Education
 
-- Next.js
-- TypeScript
-- TanStack Query
-- Zustand
-- REST API
-- Responsive design
+**GoIT** — Fullstack Developer program ✅
 
-🔗 [GitHub](https://github.com/LudSkop/TravelTrucks)  
-🌐 [Live Demo](https://travel-trucks-three-eta.vercel.app/)
+## 📫 Let's connect
 
-#### 🎬 Film Search App
-A movie search application using the TMDB API.
+<p align="center">
+  <a href="https://t.me/Liud_skop">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/liudmyla-skopenko-2772b9400/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-- React
-- JavaScript
-- Axios
-- REST API
-- Responsive design
-
-🔗 [GitHub](https://github.com/LudSkop)  
-
-#### 🐾 PawFriends
-A web application for finding pets.
-
-- React
-- JavaScript
-- REST API
-- Responsive design
-
-🔗 [GitHub](https://github.com/LudSkop/PawFriends)
-
-### 📫 Contact Me
-
-<a href="https://t.me/Liud_skop">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/liudmyla-skopenko-2772b9400/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-### 📚 Education
-
-**GoIT — Fullstack Developer**
-
-Completed Fullstack Developer program.
-
-### 🌱 Currently
-
-I'm actively looking for a Junior Frontend Developer position where I can:
-
-- work on real projects
-- improve my frontend skills
-- learn from experienced developers
-- contribute to a team
-- grow professionally
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" />
