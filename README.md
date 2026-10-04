@@ -20,7 +20,7 @@
 | Project | Description | Stack | Links |
 |---|---|---|---|
 | 🚐 **TravelTrucks** | Camper rental web app | Next.js · TypeScript · TanStack Query · Zustand | [GitHub](https://github.com/LudSkop/TravelTrucks) · [Demo](https://travel-trucks-three-eta.vercel.app/) |
-| 🎬 **Film Search** | Movie search with TMDB API | JavaScript · | [GitHub] (https://ludskop.github.io/film-search-app/)  |
+| 🎬 **Film Search** | Movie search with TMDB API | JavaScript · | [GitHub](https://ludskop.github.io/film-search-app.)  |
 | 🐾 **PawFriends** | App for finding pets | React · JavaScript · REST API | [GitHub](https://github.com/LudSkop/PawFriends) |
 
 ## 🎓 Education
