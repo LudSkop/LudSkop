@@ -1,7 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=header&text=Hi,%20I'm%20Liudmyla%20👋&fontSize=36&fontColor=ffffff" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=26A5E4&center=true&vCenter=true&width=420&lines=Junior+Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Based+in+Odesa,+Ukraine+🇺🇦" alt="Typing SVG" />
+img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Hi,%20I'm%20Liudmyla%20👋&fontSize=36&fontColor=ffffff&fontAlignY=35" width="100%" />
+
+<h3 align="center">💻 Junior Frontend Developer &nbsp;|&nbsp; React · Next.js · TypeScript &nbsp;|&nbsp; 📍 Odesa, Ukraine 🇺🇦</h3>
+
+<p align="center">
+  I enjoy building responsive, user-friendly web apps ✨<br/>
+  Looking for my first commercial role to grow as a Frontend Developer 🚀
+</p>
+
 </p>
 
 <p align="center">
