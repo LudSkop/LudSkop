@@ -14,8 +14,8 @@
 | Project | Description | Stack | Links |
 |---|---|---|---|
 | 🚐 **TravelTrucks** | Camper rental web app | Next.js · TypeScript · TanStack Query · Zustand | [GitHub](https://github.com/LudSkop/TravelTrucks) · [Demo](https://travel-trucks-three-eta.vercel.app/) |
-| 🎬 **Film Search** | Movie search with TMDB API | React · JavaScript · Axios | [GitHub](https://github.com/LudSkop/film-search-app)  · [Demo](https://ludskop.github.io/film-search-app) |
-| 🐾 **PawFriends** | App for finding pets | React · JavaScript · REST API | [GitHub](https://github.com/LudSkop/PawFriends) · [Demo](https://ludskop.github.io/PawFriends/) |
+| 🎬 **Film Search** | Movie search with TMDB API |JavaScript  | [GitHub](https://github.com/LudSkop/film-search-app)  · [Demo](https://ludskop.github.io/film-search-app) |
+| 🐾 **PawFriends** | App for finding pets |  HTML · CSS · JavaScript | [GitHub](https://github.com/LudSkop/PawFriends) · [Demo](https://ludskop.github.io/PawFriends/) |
 | 🌿 **NorthWind**   👥 | Team project: frontend of a web app for sharing travel stories, browsing traveler profiles and saving favorite articles | React · JavaScript · TypeScript · Next · Formik · Yup · REST API | [GitHub](https://github.com/LudSkop/project-NorthWind-frontend) · [Demo](https://project-north-wind-frontend.vercel.app) |
 | ☕ **CoffeeJoy** | Responsive landing page for a coffee shop with a cozy design and smooth layout on any device | HTML · CSS · JavaScript | [GitHub](https://github.com/LudSkop/CoffeeJoy) · [Demo](https://ludskop.github.io/CoffeeJoy/) |
 
