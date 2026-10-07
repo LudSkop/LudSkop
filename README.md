@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vladyslav%20Skopenko&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Mentor%20%7C%20Team%20Lead%20%7C%20T-shaped%20Specialist&descSize=20&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vladyslav%20Skopenko&fontSize=50&fontColor=ffffff&fontAlignY=38" width="100%" />
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=90&text=PYTHON%20DEVELOPER&fontSize=40&fontColor=ffffff&fontAlignY=50" width="100%" />
 
@@ -26,20 +26,15 @@
 | 🧠 **Data09** | Web service that classifies images using convolutional neural networks | Python · Jupyter Notebook | [GitHub](https://github.com/Dmytro-Ostrenko/Data09) |
 | 🚀 **li-ponk** | TypeScript project (short description coming soon) | TypeScript | [GitHub](https://github.com/VladSkopenko/li-ponk) |
 
-## 💡 What I bring to a team
-
-- 🎯 Team lead experience: planning, management and clear communication
-- 🤝 Strong collaboration and corporate ethics
-- 🧑‍🏫 Active mentoring and knowledge sharing
-- ⚡ Fast learning and adapting to new challenges
 
 ## 📫 Let's connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ТВІЙ-ЛІНК">
+  <a href="https://www.linkedin.com/in/vladyslav-skopenko">
+
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://t.me/ТВІЙ_НІК">
+  <a href="https://t.me/@Skopilk">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
