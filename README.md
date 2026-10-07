@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vladyslav%20Skopenko&fontSize=50&fontColor=ffffff&fontAlignY=38" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=200&section=header&text=Vladyslav%20Skopenko&fontSize=50&fontColor=ffffff&fontAlignY=38" width="100%" />
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=90&text=PYTHON%20DEVELOPER&fontSize=40&fontColor=ffffff&fontAlignY=50" width="100%" />
 
@@ -28,4 +27,4 @@
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=200&section=footer" width="100%" />
