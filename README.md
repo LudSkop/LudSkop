@@ -19,15 +19,68 @@
   <img src="https://img.shields.io/badge/Postman-b30000?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-b30000?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
+
 ## 📌 Projects
 
-| Project | Description | Stack | Links |
-|---|---|---|---|
-| 🚐 **TravelTrucks** | Camper rental web app | Next.js · TypeScript · TanStack Query · Zustand | [GitHub](https://github.com/LudSkop/TravelTrucks) · [Demo](https://travel-trucks-three-eta.vercel.app/) |
-| 🎬 **Film Search** | Movie search with TMDB API |JavaScript  | [GitHub](https://github.com/LudSkop/film-search-app)  · [Demo](https://ludskop.github.io/film-search-app) |
-| 🐾 **PawFriends** | App for finding pets |  HTML · CSS · JavaScript | [GitHub](https://github.com/LudSkop/PawFriends) · [Demo](https://ludskop.github.io/PawFriends/) |
-| 🌿 **NorthWind**   👥 | Team project: frontend of a web app for sharing travel stories, browsing traveler profiles and saving favorite articles | React · JavaScript · TypeScript · Next · Formik · Yup · REST API | [GitHub](https://github.com/LudSkop/project-NorthWind-frontend) · [Demo](https://project-north-wind-frontend.vercel.app) |
-| ☕ **CoffeeJoy** | Responsive landing page for a coffee shop with a cozy design and smooth layout on any device | HTML · CSS · JavaScript | [GitHub](https://github.com/LudSkop/CoffeeJoy) · [Demo](https://ludskop.github.io/CoffeeJoy/) |
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ff0000&height=45&text=🚐%20TravelTrucks&fontSize=22&fontColor=ffffff" width="100%" />
+
+Camper rental web app
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-b30000?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/TanStack%20Query-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Zustand-b30000?style=flat-square" />
+
+<a href="https://github.com/LudSkop/TravelTrucks"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://travel-trucks-three-eta.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-b30000?style=for-the-badge" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ff0000&height=45&text=🎬%20Film%20Search&fontSize=22&fontColor=ffffff" width="100%" />
+
+Movie search with TMDB API
+
+<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" />
+
+<a href="https://github.com/LudSkop/film-search-app"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://ludskop.github.io/film-search-app"><img src="https://img.shields.io/badge/Live%20Demo-b30000?style=for-the-badge" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ff0000&height=45&text=🐾%20PawFriends&fontSize=22&fontColor=ffffff" width="100%" />
+
+App for finding pets
+
+<img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-b30000?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" />
+
+<a href="https://github.com/LudSkop/PawFriends"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://ludskop.github.io/PawFriends/"><img src="https://img.shields.io/badge/Live%20Demo-b30000?style=for-the-badge" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ff0000&height=45&text=🌿%20NorthWind&fontSize=22&fontColor=ffffff" width="100%" />
+
+<img src="https://img.shields.io/badge/👥%20Team%20Project-ff0000?style=flat-square" />
+
+Frontend of a web app for sharing travel stories, browsing traveler profiles and saving favorite articles
+
+<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-b30000?style=flat-square&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-b30000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Formik-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Yup-b30000?style=flat-square" />
+<img src="https://img.shields.io/badge/REST%20API-000000?style=flat-square" />
+
+<a href="https://github.com/LudSkop/project-NorthWind-frontend"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://project-north-wind-frontend.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-b30000?style=for-the-badge" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ff0000&height=45&text=☕%20CoffeeJoy&fontSize=22&fontColor=ffffff" width="100%" />
+
+Responsive landing page for a coffee shop with a cozy design and smooth layout on any device
+
+<img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-b30000?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" />
+
+<a href="https://github.com/LudSkop/CoffeeJoy"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://ludskop.github.io/CoffeeJoy/"><img src="https://img.shields.io/badge/Live%20Demo-b30000?style=for-the-badge" /></a>
 
 
 ## 🎓 Education
