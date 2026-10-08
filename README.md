@@ -1,33 +1,50 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=200&section=header&text=Vladyslav%20Skopenko&fontSize=50&fontColor=ffffff&fontAlignY=38" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:ff0000&height=90&text=PYTHON%20DEVELOPER&fontSize=40&fontColor=ffffff&fontAlignY=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=200&section=header&text=Liudmyla%20Skopenko&fontSize=50&fontColor=ffffff&fontAlignY=38" width="100%" />
 
-<h2 align="center">I turn ideas into clean, working backend solutions 🚀</h2>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=150&text=I%20enjoy%20building%20responsive,%20user-friendly%20web%20apps%20✨&fontSize=22&fontColor=ffffff&fontAlignY=40&desc=Looking%20for%20my%20first%20commercial%20role%20as%20a%20Frontend%20Developer%20🚀&descSize=18&descAlignY=65" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:ff0000&height=90&text=FRONTEND%20DEVELOPER&fontSize=40&fontColor=ffffff&fontAlignY=50" width="100%" />
 
-<p align="center">
-  Proactive T-shaped specialist with experience in contract work, team-based projects and startups.<br/>
-  I love sharing knowledge, mentoring and helping other developers grow 🌱
-</p>
-
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend%20Developer-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-b30000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-b30000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-b30000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-b30000?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-b30000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-b30000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-b30000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-b30000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-b30000?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-b30000?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
+## 📌 Projects
+
+| Project | Description | Stack | Links |
+|---|---|---|---|
+| 🚐 **TravelTrucks** | Camper rental web app | Next.js · TypeScript · TanStack Query · Zustand | [GitHub](https://github.com/LudSkop/TravelTrucks) · [Demo](https://travel-trucks-three-eta.vercel.app/) |
+| 🎬 **Film Search** | Movie search with TMDB API |JavaScript  | [GitHub](https://github.com/LudSkop/film-search-app)  · [Demo](https://ludskop.github.io/film-search-app) |
+| 🐾 **PawFriends** | App for finding pets |  HTML · CSS · JavaScript | [GitHub](https://github.com/LudSkop/PawFriends) · [Demo](https://ludskop.github.io/PawFriends/) |
+| 🌿 **NorthWind**   👥 | Team project: frontend of a web app for sharing travel stories, browsing traveler profiles and saving favorite articles | React · JavaScript · TypeScript · Next · Formik · Yup · REST API | [GitHub](https://github.com/LudSkop/project-NorthWind-frontend) · [Demo](https://project-north-wind-frontend.vercel.app) |
+| ☕ **CoffeeJoy** | Responsive landing page for a coffee shop with a cozy design and smooth layout on any device | HTML · CSS · JavaScript | [GitHub](https://github.com/LudSkop/CoffeeJoy) · [Demo](https://ludskop.github.io/CoffeeJoy/) |
+
+
+## 🎓 Education
+
+**GoIT** — Fullstack Developer program ✅
 
 ## 📫 Let's connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vladyslav-skopenko">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://t.me/Skopilk">
+  <a href="https://t.me/Liud_skop">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/liudmyla-skopenko-2772b9400/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=200&section=footer" width="100%" />
+
+
+
