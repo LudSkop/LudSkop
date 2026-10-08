@@ -1,8 +1,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=200&section=header&text=Liudmyla%20Skopenko&fontSize=50&fontColor=ffffff&fontAlignY=38" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=150&text=I%20enjoy%20building%20responsive,%20user-friendly%20web%20apps%20✨&fontSize=22&fontColor=ffffff&fontAlignY=40&desc=Looking%20for%20my%20first%20commercial%20role%20as%20a%20Frontend%20Developer%20🚀&descSize=18&descAlignY=65" width="100%" />
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:ff0000&height=90&text=FRONTEND%20DEVELOPER&fontSize=40&fontColor=ffffff&fontAlignY=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:ff0000&height=90&text=Frontend%20Developer&fontSize=40&fontColor=ffffff&fontAlignY=50" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:ff0000&height=150&text=I%20enjoy%20building%20responsive,%20user-friendly%20web%20apps%20✨&fontSize=22&fontColor=ffffff&fontAlignY=40&desc=Looking%20for%20my%20first%20commercial%20role%20as%20a%20Frontend%20Developer%20🚀&descSize=18&descAlignY=65" width="100%" />
 
 ## 🛠️ Skills
 
