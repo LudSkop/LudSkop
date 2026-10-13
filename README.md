@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/Postman-b30000?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-b30000?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
+
 ## 📌 Projects
 
 | Project | Description | Stack | Links |
